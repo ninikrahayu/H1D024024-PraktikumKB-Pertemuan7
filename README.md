@@ -342,26 +342,6 @@ Contoh output:
 Prediksi kelas: Iris-setosa
 ```
 
----
-
-## Cara Menjalankan Program
-
-Install library yang dibutuhkan:
-
-```bash
-pip install tensorflow pandas numpy scikit-learn matplotlib seaborn
-```
-
-Jalankan program:
-
-```bash
-python modul7.py
-```
-
-Setelah program dijalankan, sistem akan melakukan training model, menampilkan hasil evaluasi, menampilkan confusion matrix, dan meminta input data baru untuk diprediksi.
-
----
-
 ## Kesimpulan
 
 Program ini berhasil menerapkan konsep Jaringan Syaraf Tiruan untuk klasifikasi bunga Iris. Model mempelajari pola dari empat fitur utama bunga, yaitu sepal length, sepal width, petal length, dan petal width. Setelah proses training, model dapat memprediksi jenis bunga Iris berdasarkan data baru yang dimasukkan pengguna.
