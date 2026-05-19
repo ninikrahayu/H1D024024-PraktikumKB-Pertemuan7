@@ -242,9 +242,3 @@ Setelah program dijalankan, sistem akan melakukan training model, menampilkan ha
 
 ---
 
-## Kesimpulan
-
-Program ini berhasil menerapkan konsep Jaringan Syaraf Tiruan untuk klasifikasi bunga Iris. Model mempelajari pola dari empat fitur utama bunga, yaitu sepal length, sepal width, petal length, dan petal width. Setelah proses training, model dapat memprediksi jenis bunga Iris berdasarkan data baru yang dimasukkan pengguna.
-
-```
-```
